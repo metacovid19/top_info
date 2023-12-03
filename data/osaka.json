@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "name": "大阪府医師会 新型コロナウイルス陽性者情報",
+    "description": "",
+    "link": "https://www.osaka.med.or.jp/pickups/detail?id=396"
+  },
+  "data": [
+    {
+      "date": "2023-11-22",
+      "count": 97,
+      "institution_count": 283
+    },
+    {
+      "date": "2023-11-23",
+      "count": 17,
+      "institution_count": 42
+    },
+    {
+      "date": "2023-11-24",
+      "count": 145,
+      "institution_count": 369
+    },
+    {
+      "date": "2023-11-25",
+      "count": 86,
+      "institution_count": 289
+    },
+    {
+      "date": "2023-11-26",
+      "count": 27,
+      "institution_count": 46
+    },
+    {
+      "date": "2023-11-27",
+      "count": 178,
+      "institution_count": 347
+    },
+    {
+      "date": "2023-11-28",
+      "count": 154,
+      "institution_count": 322
+    }
+  ]
+}

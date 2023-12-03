@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "name": "消防本部からの救急搬送困難事案（52本部合計）（件）",
+    "description": "",
+    "link": "https://www.fdma.go.jp/disaster/coronavirus/post-1.html"
+  },
+  "data": [
+    {
+      "year": 2023,
+      "month": 11,
+      "week": 2,
+      "start_date": "2023-11-06",
+      "end_date": "2023-11-12",
+      "count": 2647
+    },
+    {
+      "year": 2023,
+      "month": 11,
+      "week": 3,
+      "start_date": "2023-11-13",
+      "end_date": "2023-11-19",
+      "count": 2738
+    }
+  ]
+}

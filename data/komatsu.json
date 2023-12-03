@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "name": "石川県小松市 下水モニタリング",
+    "description": "",
+    "link": "https://www.city.komatsu.lg.jp/soshiki/jougesuidoukanri/surveillance/14588.html"
+  },
+  "data": [
+    {
+      "date": "2023-11-10",
+      "image_url": "https://drive.google.com/u/0/uc?id=1m_KC0OJDXSszJ9xOsiAs3BB9MIZdP2EU&export=download"
+    },
+    {
+      "date": "2023-11-14",
+      "image_url": "https://drive.google.com/u/0/uc?id=1XOYOykdedSq7Txy0Zm_k3UXVKgXhiTTY&export=download"
+    },
+    {
+      "date": "2023-11-17",
+      "image_url": "https://drive.google.com/u/0/uc?id=1clAhOvbudcSGoQcPlReE9ZKZtSbhMjNY&export=download"
+    },
+    {
+      "date": "2023-11-24",
+      "image_url": "https://drive.google.com/u/0/uc?id=1mmhbFZng9je386YP6ePH75LWDIVEUfnN&export=download"
+    }
+  ]
+}

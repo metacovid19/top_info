@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "name": "宮城県仙台市 下水モニタリング",
+    "description": "",
+    "link": "https://novinsewage.com/%E4%B8%8B%E6%B0%B4%E3%81%8B%E3%82%89%E3%82%B3%E3%83%AD%E3%83%8A%E3%81%AE%E6%B5%81%E8%A1%8C%E3%82%92%E4%BA%88%E6%B8%AC/"
+  },
+  "data": [
+    {
+      "start_date": "2023-11-13",
+      "end_date": "2023-11-19",
+      "count": 9637
+    },
+    {
+      "start_date": "2023-11-20",
+      "end_date": "2023-11-26",
+      "count": 8414
+    }
+  ]
+}

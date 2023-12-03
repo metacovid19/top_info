@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "name": "北海道札幌市 下水サーベイランス",
+    "description": "",
+    "link": "https://www.city.sapporo.jp/gesui/surveillance.html"
+  },
+  "data": [
+    {
+      "date": "2023-11-15",
+      "image_url": "https://drive.google.com/u/0/uc?id=1BQSuHpZNyritiTusc8LjqKXQPdDbUxtw&export=download"
+    },
+    {
+      "date": "2023-11-21",
+      "image_url": "https://drive.google.com/u/0/uc?id=17STHk5UbLGnSLXKU0BiMRdp1BNLndnr5&export=download"
+    },
+    {
+      "date": "2023-11-28",
+      "image_url": "https://drive.google.com/u/0/uc?id=1hVzDdNgCYdRMs9Fir2VIxrH9smaZKwLi&export=download"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "name": "COVID-19 基幹定点に報告された入院患者数（人）",
+    "description": "",
+    "link": "https://www.niid.go.jp/niid/ja/2019-ncov/2484-idsc/12015-covid19-surveillance-report.html"
+  },
+  "data": [
+    {
+      "year": 2023,
+      "epi_week": 45,
+      "start_date": "2023-11-06",
+      "end_date": "2023-11-12",
+      "count": 816
+    }
+  ]
+}
