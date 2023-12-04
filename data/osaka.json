@@ -49,6 +49,21 @@
       "date": "2023-11-30",
       "count": 139,
       "institution_count": 270
+    },
+    {
+      "date": "2023-12-01",
+      "count": 166,
+      "institution_count": 369
+    },
+    {
+      "date": "2023-12-02",
+      "count": 96,
+      "institution_count": 281
+    },
+    {
+      "date": "2023-12-03",
+      "count": 30,
+      "institution_count": 43
     }
   ]
 }
