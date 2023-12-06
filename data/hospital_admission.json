@@ -1,7 +1,7 @@
 {
   "meta": {
-    "name": "COVID-19 基幹定点に報告された入院患者数（人）",
-    "description": "",
+    "name": "COVID-19 基幹定点に報告された入院患者数（人; 週単位）",
+    "description": "国立感染症研究所感染症疫学センター発表「新型コロナウイルス感染症サーベイランス週報:発生動向の状況把握」に基づいています。",
     "link": "https://www.niid.go.jp/niid/ja/2019-ncov/2484-idsc/12015-covid19-surveillance-report.html"
   },
   "data": [

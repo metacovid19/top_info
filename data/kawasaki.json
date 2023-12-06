@@ -1,7 +1,7 @@
 {
   "meta": {
-    "name": "川崎市 COVID-19 発生総数（人）",
-    "description": "毎日21時頃にデータを取得します。その後更新される可能性があるため、Webサイトで公開されている値とは異なる可能性があります。",
+    "name": "川崎市 COVID-19発生総数（人; 日単位）",
+    "description": "川崎市感染症情報発信システムより、毎日21時頃にデータを取得しています。その後更新される可能性があるため、Webサイトで公開されている値とは異なる可能性があります。",
     "link": "https://kidss.city.kawasaki.jp/ja/realsurveillance/report?chart=1"
   },
   "data": [
