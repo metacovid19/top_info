@@ -23,7 +23,11 @@
       "items": {
         "type": "object",
         "properties": {
-          "date": {
+          "start_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "end_date": {
             "type": "string",
             "format": "date"
           },
@@ -33,7 +37,8 @@
           }
         },
         "required": [
-          "date",
+          "start_date",
+          "end_date",
           "count"
         ]
       }
