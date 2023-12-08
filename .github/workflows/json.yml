@@ -27,18 +27,27 @@ jobs:
           curl -L ${{ vars.JSON_ENDPOINT }}?data=sapporo > data/sapporo.json
           curl -L ${{ vars.JSON_ENDPOINT }}?data=hospital_admission > data/hospital_admission.json
           curl -L ${{ vars.JSON_ENDPOINT }}?data=kyukyu > data/kyukyu.json
-      - name: Diff files
-        id: diff
+      - name: Validate JSON and Stage
         run: |
-          git add -N .
-          git diff --name-only --exit-code
-        continue-on-error: true
+          for file in data/*.json; do
+            if jq empty "$file"; then
+              git add "$file"
+            else
+              echo "Invalid JSON: $file"
+            fi
+          done
+      - name: Check for Changes
+        id: changes
+        run: |
+          CHANGED=$(git diff --staged --name-only)
+          if [ -z "$CHANGED" ]; then
+            echo "No changes to commit."
+            exit 78  # Neutral exit
+          fi
       - name: Commit & Push
         run: |
           set -x
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add .
           git commit -m 'Update data'
           git push
-        if: steps.diff.outcome == 'failure'
