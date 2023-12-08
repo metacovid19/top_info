@@ -31,18 +31,20 @@ jobs:
         run: |
           for file in data/*.json; do
             if jq empty "$file"; then
+              echo "[OK] JSON valid: $file"
               git add "$file"
             else
-              echo "Invalid JSON: $file"
+              echo "[NG] JSON invalid: $file"
             fi
           done
       - name: Check for Changes
         id: changes
         run: |
           if git diff --staged --quiet; then
-            echo "::set-output name=has_changes::false"
+            echo "No changes"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            echo "::set-output name=has_changes::true"
+            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
       - name: Commit & Push
         if: steps.changes.outputs.has_changes == 'true'
