@@ -39,12 +39,13 @@ jobs:
       - name: Check for Changes
         id: changes
         run: |
-          CHANGED=$(git diff --staged --name-only)
-          if [ -z "$CHANGED" ]; then
-            echo "No changes to commit."
-            exit 78  # Neutral exit
+          if git diff --staged --quiet; then
+            echo "::set-output name=has_changes::false"
+          else
+            echo "::set-output name=has_changes::true"
           fi
       - name: Commit & Push
+        if: steps.changes.outputs.has_changes == 'true'
         run: |
           set -x
           git config user.name github-actions[bot]
