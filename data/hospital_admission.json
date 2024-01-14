@@ -35,6 +35,13 @@
     },
     {
       "year": 2023,
+      "epi_week": 49,
+      "start_date": "2023-12-04",
+      "end_date": "2023-12-10",
+      "count": 1468
+    },
+    {
+      "year": 2023,
       "epi_week": 50,
       "start_date": "2023-12-11",
       "end_date": "2023-12-17",
@@ -46,13 +53,6 @@
       "start_date": "2024-01-01",
       "end_date": "2024-01-07",
       "count": 2362
-    },
-    {
-      "year": 2024,
-      "epi_week": 49,
-      "start_date": "2024-01-04",
-      "end_date": "2023-12-10",
-      "count": 1468
     }
   ]
 }
