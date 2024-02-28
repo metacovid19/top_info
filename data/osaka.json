@@ -7,163 +7,163 @@
   "data": [
     {
       "date": "2023-11-22",
-      "count": 97,
-      "institution_count": 283
+      "count": 283,
+      "institution_count": 97
     },
     {
       "date": "2023-11-23",
-      "count": 17,
-      "institution_count": 42
+      "count": 42,
+      "institution_count": 17
     },
     {
       "date": "2023-11-24",
-      "count": 145,
-      "institution_count": 369
+      "count": 369,
+      "institution_count": 145
     },
     {
       "date": "2023-11-25",
-      "count": 86,
-      "institution_count": 289
+      "count": 289,
+      "institution_count": 86
     },
     {
       "date": "2023-11-26",
-      "count": 27,
-      "institution_count": 46
+      "count": 46,
+      "institution_count": 27
     },
     {
       "date": "2023-11-27",
-      "count": 178,
-      "institution_count": 347
+      "count": 347,
+      "institution_count": 178
     },
     {
       "date": "2023-11-28",
-      "count": 154,
-      "institution_count": 322
+      "count": 322,
+      "institution_count": 154
     },
     {
       "date": "2023-11-29",
-      "count": 121,
-      "institution_count": 282
+      "count": 282,
+      "institution_count": 121
     },
     {
       "date": "2023-11-30",
-      "count": 139,
-      "institution_count": 270
+      "count": 270,
+      "institution_count": 139
     },
     {
       "date": "2023-12-01",
-      "count": 166,
-      "institution_count": 369
+      "count": 369,
+      "institution_count": 166
     },
     {
       "date": "2023-12-02",
-      "count": 96,
-      "institution_count": 281
+      "count": 281,
+      "institution_count": 96
     },
     {
       "date": "2023-12-03",
-      "count": 30,
-      "institution_count": 43
+      "count": 43,
+      "institution_count": 30
     },
     {
       "date": "2023-12-04",
-      "count": 265,
-      "institution_count": 340
+      "count": 340,
+      "institution_count": 265
     },
     {
       "date": "2023-12-05",
-      "count": 167,
-      "institution_count": 342
+      "count": 342,
+      "institution_count": 167
     },
     {
       "date": "2023-12-06",
-      "count": 166,
-      "institution_count": 289
+      "count": 289,
+      "institution_count": 166
     },
     {
       "date": "2023-12-07",
-      "count": 154,
-      "institution_count": 279
+      "count": 279,
+      "institution_count": 154
     },
     {
       "date": "2023-12-08",
-      "count": 174,
-      "institution_count": 372
+      "count": 372,
+      "institution_count": 174
     },
     {
       "date": "2023-12-09",
-      "count": 139,
-      "institution_count": 273
+      "count": 273,
+      "institution_count": 139
     },
     {
       "date": "2023-12-10",
-      "count": 33,
-      "institution_count": 41
+      "count": 41,
+      "institution_count": 33
     },
     {
       "date": "2023-12-11",
-      "count": 273,
-      "institution_count": 348
+      "count": 348,
+      "institution_count": 273
     },
     {
       "date": "2023-12-12",
-      "count": 235,
-      "institution_count": 343
+      "count": 343,
+      "institution_count": 235
     },
     {
       "date": "2023-12-13",
-      "count": 188,
-      "institution_count": 277
+      "count": 277,
+      "institution_count": 188
     },
     {
       "date": "2023-12-14",
-      "count": 165,
-      "institution_count": 277
+      "count": 277,
+      "institution_count": 165
     },
     {
       "date": "2023-12-15",
-      "count": 244,
-      "institution_count": 373
+      "count": 373,
+      "institution_count": 244
     },
     {
       "date": "2023-12-16",
-      "count": 138,
-      "institution_count": 282
+      "count": 282,
+      "institution_count": 138
     },
     {
       "date": "2023-12-17",
-      "count": 34,
-      "institution_count": 48
+      "count": 48,
+      "institution_count": 34
     },
     {
       "date": "2023-12-18",
-      "count": 355,
-      "institution_count": 349
+      "count": 349,
+      "institution_count": 355
     },
     {
       "date": "2023-12-19",
-      "count": 245,
-      "institution_count": 339
+      "count": 339,
+      "institution_count": 245
     },
     {
       "date": "2023-12-20",
-      "count": 234,
-      "institution_count": 281
+      "count": 281,
+      "institution_count": 234
     },
     {
       "date": "2023-12-21",
-      "count": 244,
-      "institution_count": 279
+      "count": 279,
+      "institution_count": 244
     },
     {
       "date": "2023-12-22",
-      "count": 268,
-      "institution_count": 361
+      "count": 361,
+      "institution_count": 268
     },
     {
       "date": "2023-12-23",
-      "count": 135,
-      "institution_count": 288
+      "count": 288,
+      "institution_count": 135
     },
     {
       "date": "2023-12-24",
@@ -172,93 +172,328 @@
     },
     {
       "date": "2023-12-25",
-      "count": 371,
-      "institution_count": 336
+      "count": 336,
+      "institution_count": 371
     },
     {
       "date": "2023-12-26",
-      "count": 320,
-      "institution_count": 357
+      "count": 357,
+      "institution_count": 320
     },
     {
       "date": "2023-12-27",
-      "count": 283,
-      "institution_count": 275
+      "count": 275,
+      "institution_count": 283
     },
     {
       "date": "2023-12-28",
-      "count": 292,
-      "institution_count": 272
-    },
-    {
-      "date": "2023-12-29",
-      "count": 184,
-      "institution_count": 138
-    },
-    {
-      "date": "2023-12-30",
-      "count": 75,
-      "institution_count": 33
-    },
-    {
-      "date": "2023-12-31",
-      "count": 38,
-      "institution_count": 12
-    },
-    {
-      "date": "2024-01-01",
-      "count": 50,
-      "institution_count": 19
-    },
-    {
-      "date": "2024-01-02",
-      "count": 55,
-      "institution_count": 16
-    },
-    {
-      "date": "2024-01-03",
-      "count": 87,
-      "institution_count": 34
-    },
-    {
-      "date": "2024-01-04",
-      "count": 341,
-      "institution_count": 147
-    },
-    {
-      "date": "2024-01-05",
-      "count": 595,
-      "institution_count": 323
-    },
-    {
-      "date": "2024-01-06",
-      "count": 258,
-      "institution_count": 231
-    },
-    {
-      "date": "2024-01-07",
-      "count": 45,
-      "institution_count": 23
-    },
-    {
-      "date": "2024-01-08",
-      "count": 72,
-      "institution_count": 44
-    },
-    {
-      "date": "2024-01-09",
-      "count": 729,
-      "institution_count": 359
-    },
-    {
-      "date": "2024-01-10",
-      "count": 444,
+      "count": 272,
       "institution_count": 292
     },
     {
+      "date": "2023-12-29",
+      "count": 138,
+      "institution_count": 184
+    },
+    {
+      "date": "2023-12-30",
+      "count": 33,
+      "institution_count": 75
+    },
+    {
+      "date": "2023-12-31",
+      "count": 12,
+      "institution_count": 38
+    },
+    {
+      "date": "2024-01-01",
+      "count": 19,
+      "institution_count": 50
+    },
+    {
+      "date": "2024-01-02",
+      "count": 16,
+      "institution_count": 55
+    },
+    {
+      "date": "2024-01-03",
+      "count": 34,
+      "institution_count": 87
+    },
+    {
+      "date": "2024-01-04",
+      "count": 147,
+      "institution_count": 341
+    },
+    {
+      "date": "2024-01-05",
+      "count": 323,
+      "institution_count": 595
+    },
+    {
+      "date": "2024-01-06",
+      "count": 231,
+      "institution_count": 258
+    },
+    {
+      "date": "2024-01-07",
+      "count": 23,
+      "institution_count": 45
+    },
+    {
+      "date": "2024-01-08",
+      "count": 44,
+      "institution_count": 72
+    },
+    {
+      "date": "2024-01-09",
+      "count": 359,
+      "institution_count": 729
+    },
+    {
+      "date": "2024-01-10",
+      "count": 292,
+      "institution_count": 444
+    },
+    {
       "date": "2024-01-11",
-      "count": 407,
+      "count": 290,
+      "institution_count": 407
+    },
+    {
+      "date": "2024-01-12",
+      "count": 373,
+      "institution_count": 494
+    },
+    {
+      "date": "2024-01-13",
+      "count": 243,
+      "institution_count": 265
+    },
+    {
+      "date": "2024-01-14",
+      "count": 50,
+      "institution_count": 66
+    },
+    {
+      "date": "2024-01-15",
+      "count": 365,
+      "institution_count": 698
+    },
+    {
+      "date": "2024-01-16",
+      "count": 346,
+      "institution_count": 470
+    },
+    {
+      "date": "2024-01-17",
+      "count": 296,
+      "institution_count": 443
+    },
+    {
+      "date": "2024-01-18",
+      "count": 291,
+      "institution_count": 416
+    },
+    {
+      "date": "2024-01-19",
+      "count": 349,
+      "institution_count": 479
+    },
+    {
+      "date": "2024-01-20",
+      "count": 239,
+      "institution_count": 306
+    },
+    {
+      "date": "2024-01-21",
+      "count": 46,
+      "institution_count": 92
+    },
+    {
+      "date": "2024-01-22",
+      "count": 375,
+      "institution_count": 771
+    },
+    {
+      "date": "2024-01-23",
+      "count": 347,
+      "institution_count": 541
+    },
+    {
+      "date": "2024-01-24",
+      "count": 306,
+      "institution_count": 434
+    },
+    {
+      "date": "2024-01-25",
+      "count": 287,
+      "institution_count": 403
+    },
+    {
+      "date": "2024-01-26",
+      "count": 355,
+      "institution_count": 550
+    },
+    {
+      "date": "2024-01-27",
+      "count": 228,
       "institution_count": 290
+    },
+    {
+      "date": "2024-01-28",
+      "count": 47,
+      "institution_count": 70
+    },
+    {
+      "date": "2024-01-29",
+      "count": 372,
+      "institution_count": 918
+    },
+    {
+      "date": "2024-01-30",
+      "count": 348,
+      "institution_count": 560
+    },
+    {
+      "date": "2024-01-31",
+      "count": 292,
+      "institution_count": 506
+    },
+    {
+      "date": "2024-02-01",
+      "count": 299,
+      "institution_count": 527
+    },
+    {
+      "date": "2024-02-02",
+      "count": 350,
+      "institution_count": 597
+    },
+    {
+      "date": "2024-02-03",
+      "count": 242,
+      "institution_count": 353
+    },
+    {
+      "date": "2024-02-04",
+      "count": 43,
+      "institution_count": 60
+    },
+    {
+      "date": "2024-02-05",
+      "count": 372,
+      "institution_count": 813
+    },
+    {
+      "date": "2024-02-06",
+      "count": 337,
+      "institution_count": 565
+    },
+    {
+      "date": "2024-02-07",
+      "count": 290,
+      "institution_count": 434
+    },
+    {
+      "date": "2024-02-08",
+      "count": 286,
+      "institution_count": 417
+    },
+    {
+      "date": "2024-02-09",
+      "count": 345,
+      "institution_count": 465
+    },
+    {
+      "date": "2024-02-10",
+      "count": 237,
+      "institution_count": 257
+    },
+    {
+      "date": "2024-02-11",
+      "count": 11,
+      "institution_count": 21
+    },
+    {
+      "date": "2024-02-12",
+      "count": 44,
+      "institution_count": 121
+    },
+    {
+      "date": "2024-02-13",
+      "count": 360,
+      "institution_count": 802
+    },
+    {
+      "date": "2024-02-14",
+      "count": 284,
+      "institution_count": 418
+    },
+    {
+      "date": "2024-02-15",
+      "count": 285,
+      "institution_count": 414
+    },
+    {
+      "date": "2024-02-16",
+      "count": 335,
+      "institution_count": 406
+    },
+    {
+      "date": "2024-02-17",
+      "count": 224,
+      "institution_count": 223
+    },
+    {
+      "date": "2024-02-18",
+      "count": 46,
+      "institution_count": 66
+    },
+    {
+      "date": "2024-02-19",
+      "count": 349,
+      "institution_count": 629
+    },
+    {
+      "date": "2024-02-20",
+      "count": 327,
+      "institution_count": 438
+    },
+    {
+      "date": "2024-02-21",
+      "count": 279,
+      "institution_count": 327
+    },
+    {
+      "date": "2024-02-22",
+      "count": 223,
+      "institution_count": 246
+    },
+    {
+      "date": "2024-02-23",
+      "count": 32,
+      "institution_count": 24
+    },
+    {
+      "date": "2024-02-24",
+      "count": 205,
+      "institution_count": 286
+    },
+    {
+      "date": "2024-02-25",
+      "count": 41,
+      "institution_count": 26
+    },
+    {
+      "date": "2024-02-26",
+      "count": 338,
+      "institution_count": 507
+    },
+    {
+      "date": "2024-02-27",
+      "count": 337,
+      "institution_count": 326
     }
   ]
 }
