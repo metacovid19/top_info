@@ -214,6 +214,34 @@
       "start_date": "2024-05-27",
       "end_date": "2024-06-02",
       "count": 1260
+    },
+    {
+      "year": 2024,
+      "epi_week": 23,
+      "start_date": "2024-06-03",
+      "end_date": "2024-06-09",
+      "count": 1400
+    },
+    {
+      "year": 2024,
+      "epi_week": 24,
+      "start_date": "2024-06-10",
+      "end_date": "2024-06-16",
+      "count": 1372
+    },
+    {
+      "year": 2024,
+      "epi_week": 25,
+      "start_date": "2024-06-17",
+      "end_date": "2024-06-23",
+      "count": 1493
+    },
+    {
+      "year": 2024,
+      "epi_week": 26,
+      "start_date": "2024-06-24",
+      "end_date": "2024-06-30",
+      "count": 1691
     }
   ]
 }
