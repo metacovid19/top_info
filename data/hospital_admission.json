@@ -277,6 +277,34 @@
       "start_date": "2024-07-29",
       "end_date": "2024-08-04",
       "count": 4588
+    },
+    {
+      "year": 2024,
+      "epi_week": 32,
+      "start_date": "2024-08-05",
+      "end_date": "2024-08-11",
+      "count": 4192
+    },
+    {
+      "year": 2024,
+      "epi_week": 33,
+      "start_date": "2024-08-12",
+      "end_date": "2024-08-18",
+      "count": 3619
+    },
+    {
+      "year": 2024,
+      "epi_week": 34,
+      "start_date": "2024-08-19",
+      "end_date": "2024-08-25",
+      "count": 3404
+    },
+    {
+      "year": 2024,
+      "epi_week": 35,
+      "start_date": "2024-08-26",
+      "end_date": "2024-09-01",
+      "count": 3029
     }
   ]
 }
